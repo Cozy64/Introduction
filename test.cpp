@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main(){
-  std::cout << "this is a string << std::endl;
+  std::cout << "this is a string" << std::endl;
   return 0;
 }
